@@ -1,4 +1,4 @@
 # ionic-demo
 
-npm i
-ionic serve
+## npm i
+## ionic serve --devapp
