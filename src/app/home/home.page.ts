@@ -9,7 +9,6 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   foto: any;
-  type = true;
 
   constructor(private camera: Camera) {}
 
